@@ -1,3 +1,1 @@
-# shopping
-
-<h1>Shoppin app </h1>
+<h1>Shopping app </h1>
