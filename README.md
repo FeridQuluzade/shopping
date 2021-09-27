@@ -1,4 +1,4 @@
-<h1>Shopping app </h1>
+<h1>Shopping app backend </h1>
 
 <h2>Stack</h2>
  <ul>
